@@ -1,0 +1,24 @@
+{
+    "hipsterstoreApp": {
+        "wish" : {
+            "home": {
+                "title": "Wishes",
+                "createLabel": "Crear nuevo Wish",
+                "createOrEditLabel": "Crear o editar Wish",
+                "search": "Search for Wish"
+            },
+            "created": "Un nuevo Wish ha sido creado con el identificador {{ param }}",
+            "updated": "Un Wish ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Wish ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Wish {{ id }}?"
+            },
+            "detail": {
+                "title": "Wish"
+            },
+            "productId": "Product Id",
+            "price": "Price",
+            "wishList": "Wish List"
+        }
+    }
+}
