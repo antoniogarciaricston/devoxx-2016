@@ -111,7 +111,7 @@ public class WishResource {
     }
 
     /**
-     * DELETE  /wishes/:id : delete the "id" wish.
+     * DELETE  /wishes/:id : delete the http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1605088"id" wish.
      *
      * @param id the id of the wish to delete
      * @return the ResponseEntity with status 200 (OK)
